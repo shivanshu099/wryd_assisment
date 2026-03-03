@@ -46,10 +46,15 @@ llama3:latest generates answers strictly using retrieved context
 # to run the project
 
 install all requirements.txt
+install ollama model
+nomic-embed-text
+llama3:latest
+
 then run llm.py 
 then run main.py
 
 # scrrenshots
+
 
 
 
