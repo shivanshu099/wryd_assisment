@@ -53,7 +53,70 @@ llama3:latest
 then run llm.py 
 then run main.py
 
-# scrrenshots
+## scrrenshots
+
+(screenshots here!......)
+![App Screenshot](https://github.com/shivanshu099/wryd_assisment/blob/main/Screenshot1.png)
+
+![App Screenshot](https://github.com/shivanshu099/wryd_assisment/blob/main/Screenshot2.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
