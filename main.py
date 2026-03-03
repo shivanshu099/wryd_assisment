@@ -1,0 +1,119 @@
+from llm import ask_llm
+
+
+if __name__=="__main__":
+    while True:
+        user_input=input("please ask anything about wryd: ")
+        if "exit" in user_input:
+            print("\n----------bye👋")
+            break
+        if not user_input:
+            continue
+        response=ask_llm(user_input)
+        print(f"🤖 wryd ai: {response}")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
